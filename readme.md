@@ -104,3 +104,7 @@ This tool is intended to be used in a legal and legitimate way only:
 
 Quoting Empire's authors:
 *There is no way to build offensive tools useful to the legitimate infosec industry while simultaneously preventing malicious actors from abusing them.*
+
+# Special Thanks
+
+* [natesubra](https://github.com/natesubra) - help with the c# -> powershell conversion
